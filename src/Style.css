@@ -1,0 +1,14 @@
+body {
+  background: rgb(34, 193, 195);
+  background-repeat: no-repeat;
+  background: linear-gradient(0deg, rgb(34, 193, 195) 0%, rgb(253, 45, 205) 100%);
+}
+
+.main_information {
+  width: 100px;
+  height: 50px;
+  border: 1px;
+  border-radius: 10px;
+  border-color: white;
+  border-style: groove;
+}/*# sourceMappingURL=Style.css.map */
